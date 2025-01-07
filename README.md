@@ -66,3 +66,8 @@ The Virtual Threaded Text Simplifier is a multi-threaded Java application design
 4. Navigate the configuration menu to refine settings as needed.
 
 ---
+
+## Resources 
+List of files to use for this App:
+- [word-embeddings.txt](Resources/word-embeddings.txt): Word-embeddings file for uploading a path.
+- [google-1000.txt](Resources/google-1000.txt): Google-1000 file for uploading a path.
